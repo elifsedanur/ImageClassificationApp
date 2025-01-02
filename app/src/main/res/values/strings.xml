@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageClassification</string>
+    <string name="upload">Resim Seç</string>
+    <string name="search">Sonuç Üret</string>
+    <string name="text_yazi">Lütfen sınıflandırma için resim seçiniz!!</string>
+</resources>
